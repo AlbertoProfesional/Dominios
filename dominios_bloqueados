@@ -16,3 +16,4 @@
 0.0.0.0 graph.facebook.com
 0.0.0.0 marker.data.rtve.es
 0.0.0.0 marker.konograma.com
+0.0.0.0 (^|\.)spotxcdn\.com$
