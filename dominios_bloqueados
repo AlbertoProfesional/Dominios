@@ -1,3 +1,4 @@
+# Apuestas
 0.0.0.0 bet365.com
 0.0.0.0 bet365.es
 0.0.0.0 botemania.es
@@ -5,17 +6,25 @@
 0.0.0.0 888poker.com
 0.0.0.0 888poker.es
 0.0.0.0 pokerstars.es
-0.0.0.0 appnext.com
+
+# spotxcdn (Anuncios de Juegos Microsoft: Solitario, Buscaminas, etc.)
 0.0.0.0 spotxcdn.com
 0.0.0.0 aka.spotxcdn.com
 0.0.0.0 cdn.spotxcdn.com
 0.0.0.0 llnw.spotxcdn.com
 0.0.0.0 spotxchange.com
+
+# Softonic
 0.0.0.0 softonic.com
 0.0.0.0 softonic.es
+
+# Television
+0.0.0.0 marker.data.rtve.es
+0.0.0.0 marker.konograma.com
+
+# VARIOS
+0.0.0.0 graph.facebook.com
+0.0.0.0 appnext.com
 0.0.0.0 keyrolan.com
 0.0.0.0 kuroy.me
 0.0.0.0 trmnsite.com
-0.0.0.0 graph.facebook.com
-0.0.0.0 marker.data.rtve.es
-0.0.0.0 marker.konograma.com
