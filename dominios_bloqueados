@@ -267,6 +267,19 @@
 0.0.0.0 discover.appnext.com
 0.0.0.0 wp.appnext.com
 0.0.0.0 community.appnext.com
+#   adsafeprotected.com
+0.0.0.0 adsafeprotected.com
+0.0.0.0 cdn.adsafeprotected.com
+0.0.0.0 mobile.adsafeprotected.com
+0.0.0.0 vastpixel2.adsafeprotected.com
+0.0.0.0 vastlog.adsafeprotected.com
+0.0.0.0 daldt.adsafeprotected.com
+0.0.0.0 appvast.adsafeprotected.com
+0.0.0.0 static.adsafeprotected.com
+0.0.0.0 vastcdn.adsafeprotected.com
+0.0.0.0 vast.adsafeprotected.com
+0.0.0.0 pixel.adsafeprotected.com
+
 
 # SOFTONIC
 #   softonic.es
